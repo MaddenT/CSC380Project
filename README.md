@@ -72,3 +72,25 @@ Potential Criteria for Determining Effectiveness:
   -Percentage of sentences that follow proper grammar rules/place blanks in correct spots with part of speech label that makes sense
   
   -Percentage of sentences that aren't word salad
+  
+  ## Resources
+  
+  https://hackernoon.com/from-what-is-a-markov-model-to-here-is-how-markov-models-work-1ac5f4629b71
+  
+  https://medium.freecodecamp.org/an-introduction-to-part-of-speech-tagging-and-the-hidden-markov-model-953d45338f24
+  
+  https://medium.freecodecamp.org/a-deep-dive-into-part-of-speech-tagging-using-viterbi-algorithm-17c8de32e8bc
+  
+  https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf
+  
+  [Info on Viterbi/Buam-Weltch as it applies to HMM POST](http://pages.cs.wisc.edu/~jerryzhu/cs769/HMM.pdf)
+  
+  [More info on Viterbi HMM POST](http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf)
+  
+  [Info on Inside-Outside Algorithm](https://courses.cs.washington.edu/courses/cse599d1/16sp/lari-young-90.pdf)
+  
+  [Really good info on Brill Tagger w/ pseudo-code](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.8670&rep=rep1&type=pdf)
+  
+  [More Info on Brill Tagger](http://stp.lingfil.uu.se/~bea/publ/megyesi-BrillsPoSTagger.pdf)
+  
+  
