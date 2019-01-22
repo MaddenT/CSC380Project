@@ -83,6 +83,8 @@ Potential Criteria for Determining Effectiveness:
   
   https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf
   
+  http://www.cs.jhu.edu/~langmea/resources/lecture_notes/hidden_markov_models.pdf
+  
   [Info on Viterbi/Buam-Weltch as it applies to HMM POST](http://pages.cs.wisc.edu/~jerryzhu/cs769/HMM.pdf)
   
   [More info on Viterbi HMM POST](http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf)
